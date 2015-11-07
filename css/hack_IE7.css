@@ -1,0 +1,13 @@
+﻿div,ul,li,dl,dt,dd,p,label,input,span,h1,h2,h3,h4,h5,h6,a{ font-family:"微软雅黑",'MicrosoftYaHei','Segoe UI',"宋体",SimSun,sans-serif;}
+.navArrowRight {top:-3px;}
+.sinaIcon {top:0;}
+.userCenter_content {top:30px;}
+#nav dl dt .navArrowTop{position:absolute; left:45%; top:25px;}
+/*个人信息，小手机图标和小邮件图标*/
+.small_mail_icon {top:-1px;}
+.small_phone_icon {top:0;}
+.uploadImg_list .img{ display:block;font-size:60px; }
+.uploadImg_list .img img{vertical-align:middle;}
+.condition .asc,.condition .desc{height:14px;}
+.shopping_icon, .news_icon {position:relative;top:-3px;}
+.refresh_icon, .return_icon {padding:0 5px 0 0;}
