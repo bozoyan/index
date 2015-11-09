@@ -1,0 +1,147 @@
+[
+  {
+    "Id": 10409,
+    "Name": "拼接印花，简约时尚",
+    "Productcategoryid": "R0501",
+    "Productid": 20178,
+    "Function": null,
+    "FrontPhotoUrl": "upload/2/105099.jpg",
+    "Specification": "门幅280CM",
+    "Series": "Delton",
+    "Space": "客厅,
+    卧室,
+    书房",
+    "Style": "传统经典",
+    "Color": "苔藓绿",
+    "Material": "60%聚酯纤维40%粘胶",
+    "New": false,
+    "Sales": 1372,
+    "Price": 298,
+    "Sku": "105099",
+    "Productcombinationid": 10409,
+    "PromotionPrice": 298,
+    "Photos": [
+      {
+        "PhotoPath": "upload/2/105099.jpg",
+        "PhotoPath_220_220": null,
+        "Sort": 1
+      },
+      {
+        "PhotoPath": "upload/1/105099.jpg",
+        "PhotoPath_220_220": null,
+        "Sort": 2
+      }
+    ],
+    "ColorUrl": "upload/2/30_30/105099.jpg",
+    "ColorUrl_80_80": "upload/2/80_80/105099.jpg",
+    "Shape": null,
+    "GiftNum": 0,
+    "SortId": 0,
+    "Salesstates": "ZS"
+  },
+  {
+    "Id": 10410,
+    "Name": "拼接印花，简约时尚",
+    "Productcategoryid": "R0501",
+    "Productid": 20178,
+    "Function": null,
+    "FrontPhotoUrl": "upload/2/105100.jpg",
+    "Specification": "门幅280CM",
+    "Series": "Delton",
+    "Space": "客厅,
+    卧室,
+    书房",
+    "Style": "传统经典",
+    "Color": "土黄色",
+    "Material": "60%聚酯纤维40%粘胶",
+    "New": false,
+    "Sales": 755,
+    "Price": 298,
+    "Sku": "105100",
+    "Productcombinationid": 10410,
+    "PromotionPrice": 298,
+    "Photos": [
+      {
+        "PhotoPath": "upload/2/105100.jpg",
+        "PhotoPath_220_220": null,
+        "Sort": 1
+      }
+    ],
+    "ColorUrl": "upload/2/30_30/105100.jpg",
+    "ColorUrl_80_80": "upload/2/80_80/105100.jpg",
+    "Shape": null,
+    "GiftNum": 0,
+    "SortId": 0,
+    "Salesstates": "ZS"
+  },
+  {
+    "Id": 10411,
+    "Name": "拼接印花，简约时尚",
+    "Productcategoryid": "R0501",
+    "Productid": 20178,
+    "Function": null,
+    "FrontPhotoUrl": "upload/2/105101.jpg",
+    "Specification": "门幅280CM",
+    "Series": "Delton",
+    "Space": "客厅,
+    卧室,
+    书房",
+    "Style": "传统经典",
+    "Color": "烟灰色",
+    "Material": "60%聚酯纤维40%粘胶",
+    "New": false,
+    "Sales": 875,
+    "Price": 298,
+    "Sku": "105101",
+    "Productcombinationid": 10411,
+    "PromotionPrice": 298,
+    "Photos": [
+      {
+        "PhotoPath": "upload/2/105101.jpg",
+        "PhotoPath_220_220": null,
+        "Sort": 1
+      }
+    ],
+    "ColorUrl": "upload/2/30_30/105101.jpg",
+    "ColorUrl_80_80": "upload/2/80_80/105101.jpg",
+    "Shape": null,
+    "GiftNum": 0,
+    "SortId": 0,
+    "Salesstates": "ZS"
+  },
+  {
+    "Id": 10412,
+    "Name": "拼接印花，简约时尚",
+    "Productcategoryid": "R0501",
+    "Productid": 20178,
+    "Function": null,
+    "FrontPhotoUrl": "upload/2/105102.jpg",
+    "Specification": "门幅280CM",
+    "Series": "Delton",
+    "Space": "客厅,
+    卧室,
+    书房",
+    "Style": "传统经典",
+    "Color": "巧克力色",
+    "Material": "60%聚酯纤维40%粘胶",
+    "New": false,
+    "Sales": 866,
+    "Price": 298,
+    "Sku": "105102",
+    "Productcombinationid": 10412,
+    "PromotionPrice": 298,
+    "Photos": [
+      {
+        "PhotoPath": "upload/2/105102.jpg",
+        "PhotoPath_220_220": null,
+        "Sort": 1
+      }
+    ],
+    "ColorUrl": "upload/2/30_30/105102.jpg",
+    "ColorUrl_80_80": "upload/2/80_80/105102.jpg",
+    "Shape": null,
+    "GiftNum": 0,
+    "SortId": 0,
+    "Salesstates": "ZS"
+  }
+]

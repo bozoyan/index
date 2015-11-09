@@ -1,0 +1,41 @@
+﻿[
+  {
+    "Id": 10001,  //数据库产品ID
+    "Name": "拼接印花，简约时尚",
+    "Productcategoryid": "R0501",
+    "Productid": 21,  //栏目ID
+    "Function": null,
+    "FrontPhotoUrl": "upload/2/105099.jpg", //默认主图片
+    "Specification": "门幅280CM",  //规格
+    "Series": "Delton",
+    "Space": "客厅,
+    卧室,
+    书房",
+    "Style": "现代简约",  //风格
+    "Color": "苔藓绿",
+    "Material": "棉麻拼接",   //材质
+    "New": false,
+    "Sales": 1372,  //销量
+    "Price": 298,    //价格
+    "Sku": "105099",
+    "Productcombinationid": 10001,     //数据库产品ID
+    "PromotionPrice": 298,     //价格
+    "Photos": [
+      {
+        "PhotoPath": "upload/2/105099.jpg",   //第一张图
+        "PhotoPath_220_220": null,
+        "Sort": 1
+      },
+      {
+        "PhotoPath": "upload/1/105099.jpg",    //第二张图
+        "PhotoPath_220_220": null,
+        "Sort": 2
+      }
+    ],
+    "ColorUrl_80_80": "upload/2/80_80/105099.jpg",
+    "Shape": null,
+    "GiftNum": 0,
+    "SortId": 0,
+    "Salesstates": "ZS"
+  }
+]
