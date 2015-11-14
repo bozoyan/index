@@ -13,6 +13,14 @@
     <script src="js/placeholders.js"></script>
     <![endif]-->
     <link href="css/style.css" rel="stylesheet"/>
+    <style>
+    .da{
+        color:#000000;
+        }
+
+    .da1{
+        color:#00ff00;
+        }</style>
     <script src="js/js.js"></script>
      <script src="js/magiczoom/magiczoom.js"></script>
     <link rel="stylesheet" type="text/css" href="js/magiczoom/magiczoom.css" />
@@ -22,15 +30,15 @@
 
 </head>
 <body>
-    <?php 
-    include("head.php"); 
+    <?php
+    include("head.php");
     ?>
  <input type="hidden" id="channelorder" />
 <!-- 正文开始 -->
 
 <div class="container">
     <div class="breadCrumbs">
-        <a href="/">首页</a> > <a href="index1.php">窗帘产品栏目</a> > <a href="list.php">窗帘</a> > <a href="mai.php">窗帘产品</a>       
+        <a href="/">首页</a> > <a href="index1.php">窗帘产品栏目</a> > <a href="list.php">窗帘</a> > <a href="mai.php">窗帘产品</a>
     </div>
     <div class="detail clearfix">
         <div class="productImg fl">
@@ -71,7 +79,7 @@
                 </dd>
             </dl>
             <div class="product_key">
-                
+
                 <div class="p_sku clearfix" id="mainselector">
 
 <dl class="qty_container clearfix"><dt class="fl">规格</dt><dd id="p_Material">  <a class="btn btn_s_detail btn_s_active" title="定高2.8m*宽不限" href="javascript:">定高2.8m*宽不限</a> <a class="btn btn_s_detail btn_s_active" title="拼接印花" href="javascript:">拼接印花</a> <a class="btn btn_s_detail btn_s_active" title="简约时尚" href="javascript:">简约时尚</a>  </dd></dl>
@@ -79,7 +87,7 @@
 
 
                 </div>
-               
+
             </div>
                 <div class="product_detail_btn">
                     <div class="p_action clearfix">
@@ -87,7 +95,7 @@
                         <a name="cart_add" href="#"  class="btn btn_gray btn_130">APP购买</a>
                         <a href="#" for="collect"  class="btn btn_white btn_130 ">加工定制</a>
                         <a href="#" for="collect"  class="btn btn_white btn_130 ">定制说明</a>
-<!-- 
+<!--
           <p class="title">定制说明: <br> 定制商品指在已有的款式和尺寸基础上上提供多种面料供顾客选择（不包括尺寸定制），通常窗帘定制周期为30-35天，物流配送时间另计。</p>   -->
                     </div>
                     <dl class="p_share clearfix">
@@ -100,7 +108,7 @@
                             </ul>
                         </dd>
                     </dl>
-                </div>            
+                </div>
             </div>
     </div>
     <div class="main_wrap" id="detail_description">
@@ -124,7 +132,7 @@
         </div>
         <div class="p_content hide ">
             <div class="p_description clearfix">
-                
+
             </div>
         </div>
     </div>
@@ -189,7 +197,7 @@
 
 <p>常温水洗，相近色可同洗，可非氯漂洗，中温熨烫，低温烘干。</p>
 </div>
-          
+
     </div>
 </div>
 <input id="hidMainSelectorProductsJSON" type="hidden" value="[{&quot;Id&quot;:10001,&quot;Name&quot;:&quot;拼接印花，简约时尚&quot;,&quot;Productcategoryid&quot;:&quot;R0501&quot;,&quot;Productid&quot;:21,&quot;Function&quot;:null,&quot;FrontPhotoUrl&quot;:&quot;upload/2/105099.jpg&quot;,&quot;Specification&quot;:&quot;门幅280CM&quot;,&quot;Series&quot;:&quot;Delton&quot;,&quot;Space&quot;:&quot;客厅,卧室,书房&quot;,&quot;Style&quot;:&quot;现代简约&quot;,&quot;Color&quot;:&quot;苔藓绿&quot;,&quot;Material&quot;:&quot;棉麻拼接&quot;,&quot;New&quot;:false,&quot;Sales&quot;:1372,&quot;Price&quot;:298,&quot;Sku&quot;:&quot;105099&quot;,&quot;Productcombinationid&quot;:10001,&quot;PromotionPrice&quot;:298,&quot;Photos&quot;:[{&quot;PhotoPath&quot;:&quot;upload/2/105099.jpg&quot;,&quot;PhotoPath_220_220&quot;:null,&quot;Sort&quot;:1},{&quot;PhotoPath&quot;:&quot;upload/1/105099.jpg&quot;,&quot;PhotoPath_220_220&quot;:null,&quot;Sort&quot;:2}],&quot;ColorUrl_80_80&quot;:&quot;upload/2/80_80/105099.jpg&quot;,&quot;Shape&quot;:null,&quot;GiftNum&quot;:0,&quot;SortId&quot;:0,&quot;Salesstates&quot;:&quot;ZS&quot;}]" />
@@ -212,9 +220,10 @@
 
 <script src="js/weibo_share.js"></script>
 
-<?php 
-    include("foot.php"); 
+<?php
+    include("foot.php");
 ?>
+
 </body>
 </html>
 
